@@ -1,0 +1,21 @@
+# Ignore reports
+PlayWrightProject/report/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore environment files
+*.env
+
+# Ignore pytest cache
+.pytest_cache/
